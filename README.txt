@@ -55,7 +55,3 @@ gcc *.c -std=c99 -o myprog -lm
 3./myprog
 
 4.exit
-
-Work Distrubution
-Chenwei Yue: FIFO Queue & Piority Queue Library, Piority Queue simulation and reprot
-Yichao Yao: Simulation engine and event handlers, Single server/queue simulation literature survey and repprt 
